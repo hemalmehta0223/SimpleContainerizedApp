@@ -6,4 +6,4 @@ COPY Publish .
 
 EXPOSE 8080
 
-CMD ["dotnet", "SampleContainerizedApp.dll"]
+CMD ["dotnet", "SampleContainarizedApp1.dll"]
